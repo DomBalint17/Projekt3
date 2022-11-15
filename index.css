@@ -1,5 +1,7 @@
 body{
     margin-left:30px;
+    background-color:black;
+    color:lightgreen
 }
 
 h1{
@@ -7,6 +9,15 @@ h1{
     font-size:40px;
 }
 
+h2{
+    font-size:25px;
+}
+
 li{
     font-weight: bold;;
+}
+.h2{
+    position: absolute;
+    top:50px;
+    left:30px;
 }
