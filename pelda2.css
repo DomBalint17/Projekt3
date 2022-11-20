@@ -1,0 +1,27 @@
+body{
+    margin-left:30px;
+    color:lightgreen;
+    background: #23242a;
+    font-size:25px;
+    text-align: justify;
+}
+
+h1{
+    text-align:center;
+    font-size:40px;
+    border: 1px solid black;
+}
+
+h2{
+    font-size:25px;
+}
+
+li{
+    font-weight: bold;
+}
+
+#kep2{
+    position:absolute;
+    top:170px;
+    right:100px;
+}

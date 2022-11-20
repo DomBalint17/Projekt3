@@ -17,7 +17,7 @@ h2{
 }
 
 li{
-    font-weight: bold;;
+    font-weight: bold;
 }
 .h2{
     position: absolute;
@@ -42,8 +42,8 @@ li{
 
 #kep1{
     position: absolute;
-    top:150px;
-    right:200px;
+    top:200px;
+    right:150px;
 }
 
 #kep2{
