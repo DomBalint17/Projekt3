@@ -38,3 +38,14 @@ li{
 .col-sm-6{
     text-align:justify;
 }
+
+.ikon{
+    position:absolute;
+    top:200px;
+    right:200px;
+}
+
+#ikon{
+    width:600px;
+    height:600px;
+}
