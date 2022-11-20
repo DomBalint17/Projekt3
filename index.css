@@ -1,9 +1,9 @@
 body{
     margin-left:30px;
-    background-color:black;
     color:lightgreen;
-    background-color: black;
-
+    background: #23242a;
+    font-size:25px;
+    text-align: justify;
 }
 
 h1{
@@ -21,6 +21,20 @@ li{
 }
 .h2{
     position: absolute;
-    top:50px;
+    top:60px;
     left:30px;
+}
+
+.kulonl{
+    position: absolute;
+    left:55px;
+    top:145px;
+}
+
+.bekezdes{
+    font-size:18px;
+}
+
+.col-sm-6{
+    text-align:justify;
 }
